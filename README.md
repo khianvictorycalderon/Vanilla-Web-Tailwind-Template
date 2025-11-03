@@ -1,3 +1,3 @@
-# Tailwind Vanilla Web Test
+# Vanilla Web + Tailwind Project Template
 
-Testing how to use tailwind with vanilla web technologies.
+A simple project template for creating web vanilla + tailwind project template. Eliminates the need for style.css or <style>.
