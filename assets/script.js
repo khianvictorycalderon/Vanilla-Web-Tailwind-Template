@@ -1,3 +1,3 @@
-function Hello() {
-  return "Hello World";
+function handleGetStarted() {
+  alert("You can now code with vanilla web + tailwind!");
 }
